@@ -1,0 +1,11 @@
+
+
+----------->> First Smart contract Hack  ------------
+
+::Reentrancy Attack  
+
+
+Q what is Receive Function
+
+Ans:: --> in solidity the recive function is a spical that is used to 
+    receive ether (the Native cryptocurrency of the ethereum  newwork ) sent to a contract
